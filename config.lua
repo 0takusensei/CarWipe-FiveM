@@ -7,5 +7,5 @@ Config = {
     use10msdelay = true, -- use 10ms delay by deleting a vehicle
     DoneNotify = true, -- Send a notify when the carwipe is done
     UseESX = true, -- Set this to enable or disable ESX, this is for the delete functions
-    OnlyWipeBroken = true, -- Only Delete Broken cars in the map
+    OnlyWipeBroken = false, -- Only Delete Broken cars in the map
 }
